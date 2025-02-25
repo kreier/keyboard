@@ -27,6 +27,8 @@ The force-travel graph on the right is from the buckling spring patent filing [U
 
 Two related patents are [US4118611A](https://patents.google.com/patent/US4118611/en) Buckling spring torsional snap actuator from 1978 and [Catastrophically buckling compression column switch and actuator](https://patentimages.storage.googleapis.com/36/4b/99/36af15e33d4aff/US3699296.pdf) ([US3699296A](https://patents.google.com/patent/US3699296A/en)) from 1972.
 
+<img src="pics/buckling.gif" width="24%"> <img src="pics/Bucklingspring-animation.gif" width="24%"> <img src="pics/Cherry-MX-animated.gif" width="24%"> <img src="pics/Red.gif" width="24%">
+
 ## History
 
 Weirdly enough in 1990 I took a 10 finger type course on mechanical typewriters. I think the travel distance for these keys is more than 10 millimeter. For the C64 and Atari ST (from the 1980) it should already be around the future 4 millimeter. The above mentioned patent filing from 1978 includes a [graph that indicates](https://sharktastica.co.uk/resources/images/patents/US4118611A_2.jpg) that the keypress is registered after 0.08 inch (2.0 millimeter) and bottoms out at 0.17 inch (4.3 millimeter) with 70 cN force. These values are probably reference range values for this time. The necessity for less key travel appeard later with the rise of slim laptops, and a process of low key travel exploration began.
@@ -80,6 +82,6 @@ Some switches how have progressive springs, and many motorbikes on the road arou
 
 <img src="pics/2021spring.jpg" width="35%"> <img src="pics/2021spring-force.jpg" width="60%">
 
-Another example is this [article on imsolidstate.com](https://www.imsolidstate.com/archives/1693) form 2017. And when used in a keyboard it might be even less obvious in the force-travel diagram, let alone possible to feel. See [Tecsee Progressive Spring](https://github.com/ThereminGoat/force-curves/blob/aed248b47703958b065d2d05909e8558471e7288/SwitchOddities%20Spring%20Testers/Tecsee%20Progressive/Tecsee%20Progressive%20Linear.pdf) (github folder). 
+Another example is this [article on imsolidstate.com](https://www.imsolidstate.com/archives/1693) form 2017. And when used in a keyboard it might be even less obvious in the force-travel diagram, let alone possible to feel. See [Tecsee Progressive Spring](https://github.com/ThereminGoat/force-curves/blob/aed248b47703958b065d2d05909e8558471e7288/SwitchOddities%20Spring%20Testers/Tecsee%20Progressive/Tecsee%20Progressive%20Linear.pdf) ([github folder](https://github.com/ThereminGoat/force-curves/tree/aed248b47703958b065d2d05909e8558471e7288/SwitchOddities%20Spring%20Testers/Tecsee%20Progressive)). 
 
 ![graph progressive spring force-travel](pics/2025progressive.jpg)
