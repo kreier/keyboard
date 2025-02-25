@@ -78,4 +78,8 @@ By now you can get so many mechanical keyboards, all kinds of RGB backlights and
 
 Some switches how have progressive springs, and many motorbikes on the road around me have this type of spring as well. A [post on geekhack.org](https://geekhack.org/index.php?topic=112430.msg3040866#msg3040866) from 2021 illustrates that the effect itself is almost neglible:
 
-<img src="pics/2021spring.jpg" width="30%"> <img src="pics/2021spring-force.jpg" width="65%">
+<img src="pics/2021spring.jpg" width="35%"> <img src="pics/2021spring-force.jpg" width="60%">
+
+Another example is this [article on imsolidstate.com](https://www.imsolidstate.com/archives/1693) form 2017. And when used in a keyboard it might be even less obvious in the force-travel diagram, let alone possible to feel. See [Tecsee Progressive Spring](https://github.com/ThereminGoat/force-curves/blob/aed248b47703958b065d2d05909e8558471e7288/SwitchOddities%20Spring%20Testers/Tecsee%20Progressive/Tecsee%20Progressive%20Linear.pdf) (github folder). 
+
+![graph progressive spring force-travel](pics/2025progressive.jpg)
