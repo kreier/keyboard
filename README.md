@@ -4,7 +4,7 @@ Experiences and measurements with different keyboards over the years
 
 ## Measurements
 
-<img src="pics/US4118611A_2.jpg" align="right" width="30%">
+<img src="pics/US4118611A_2.jpg" align="right" width="40%">
 
 With the Covid-19 pandemic the interest in mechanical keyboards got a global spike, and the niche hobby became more mainstream. Good products became affordable. I started a setup to measure the force-travel curve of the Apple butterfly keyboard in 2017, but never finished the project. In 2023 - 6 years later - more sophisticated and automated solutions are available. And the source code and results are available on Github:
 
@@ -23,14 +23,13 @@ The force-travel graph on the right is from the buckling spring patent filing [U
 | Logitech K585    |           1.8 |         64 | [rting.com](https://www.rtings.com/keyboard/1-3-1/graph/23175/key-switch-actuation-graph/logitech-k585-vs-apple-magic-keyboard-2017/38163/1601)       |
 | Akko 3098 B Plus |           3.5 |         56 | [V3 Cream Yellow](https://github.com/ThereminGoat/force-curves/tree/main/Akko%20V3%20Cream%20Yellow) |
 | Aula F75         |           3.6 |         55 | [Leobog Reaper](https://github.com/ThereminGoat/force-curves/tree/main/Leobog%20Reaper)   |
-| [Model M keyboard](https://en.wikipedia.org/wiki/Model_M_keyboard) |  4.0 |  70 | [Bluckling spring](https://en.wikipedia.org/wiki/Buckling_spring),  [image](https://sharktastica.co.uk/resources/images/patents/US4118611A_2.jpg) |
+| [Model M keyboard](https://en.wikipedia.org/wiki/Model_M_keyboard) |  4.0 |  70 | [Bluckling spring](https://en.wikipedia.org/wiki/Buckling_spring),  [force-travel graph](https://sharktastica.co.uk/resources/images/patents/US4118611A_2.jpg) |
 
-Technically it's not just buckling spring, but 
 Two related patents are [US4118611A](https://patents.google.com/patent/US4118611/en) Buckling spring torsional snap actuator from 1978 and [Catastrophically buckling compression column switch and actuator](https://patentimages.storage.googleapis.com/36/4b/99/36af15e33d4aff/US3699296.pdf) ([US3699296A](https://patents.google.com/patent/US3699296A/en)) from 1972.
 
 ## History
 
-Weirdly enough in 1990 I took a 10 finger type course on mechanical typewriters. I think the travel distance for these keys is more than 10 millimeter. For the C64 and Atari ST it should already be around the future 4 millimeter. The above mentioned patent filing from 1978 includes a [graph that indicates](https://sharktastica.co.uk/resources/images/patents/US4118611A_2.jpg) that the keypress is registered after 0.08 inch (2.0 millimeter) and bottoms out at 0.17 inch (4.3 millimeter) with 70 cN force. These values are probably reference range values for this time. Only later with laptops the necessity of less travel for slimmer models appeard, and a process of low key travel exploration began.
+Weirdly enough in 1990 I took a 10 finger type course on mechanical typewriters. I think the travel distance for these keys is more than 10 millimeter. For the C64 and Atari ST (from the 1980) it should already be around the future 4 millimeter. The above mentioned patent filing from 1978 includes a [graph that indicates](https://sharktastica.co.uk/resources/images/patents/US4118611A_2.jpg) that the keypress is registered after 0.08 inch (2.0 millimeter) and bottoms out at 0.17 inch (4.3 millimeter) with 70 cN force. These values are probably reference range values for this time. The necessity for less key travel appeard later with the rise of slim laptops, and a process of low key travel exploration began.
 
 ###  1988 ZX81
 
@@ -79,5 +78,4 @@ By now you can get so many mechanical keyboards, all kinds of RGB backlights and
 
 Some switches how have progressive springs, and many motorbikes on the road around me have this type of spring as well. A [post on geekhack.org](https://geekhack.org/index.php?topic=112430.msg3040866#msg3040866) from 2021 illustrates that the effect itself is almost neglible:
 
-<img src="pics/2021spring.jpg" width=""30%"> <img src="pics/2021spring-force.jpg" width=""30%">
-
+<img src="pics/2021spring.jpg" width="30%"> <img src="pics/2021spring-force.jpg" width="65%">
