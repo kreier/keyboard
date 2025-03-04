@@ -74,7 +74,15 @@ The MacBook was a great engineering achievement with a full aluminum body, retin
 
 ### 2025 hot swap mechanical
 
-By now you can get so many mechanical keyboards, all kinds of RGB backlights and more than 1000 different switches to put in.
+<img src="pics/akko-3098B.jpg" width=49%> <img src="pics/aula-f75.jpg" width=49%>
+
+By now you can get so many mechanical keyboards, all kinds of RGB backlights and more than 2000 different switches to put in. I got the Akko 3098 B Plus with [Akko V3 Cream Yellow](https://www.switchesdb.com/#Akko%20V3%20Cream%20Yellow~TG.csv) and Aula F75 with [Leobog Reaper](https://www.switchesdb.com/#Leobog%20Reaper~TG.csv) switches. On the former I changed to the [Outemu Silent Lemon V3](https://www.switchesdb.com/#Outemu%20Silent%20Lemon%20V3~TG.csv) switches. For people that have a job.
+
+![compare original switches](pics/Akko_V3_Cream_Yellow_Leobog_Reaper.svg)
+
+This is the change to silent Outemu switches on the Akko 3098B:
+
+![compare switch to silent](pics/Akko_V3_Cream_Yellow_Outemu_Silent_Lemon_V3.svg)
 
 ## Progressive Spring
 
