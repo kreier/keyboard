@@ -1,5 +1,9 @@
 # Keyboards
 
+[![GitHub release](https://img.shields.io/github/release/kreier/keyboard.svg)](https://GitHub.com/kreier/keyboard/releases/)
+[![MIT license](https://img.shields.io/github/license/kreier/keyboard)](https://kreier.mit-license.org/)
+[![pages-build-deployment](https://github.com/kreier/keyboard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/keyboard/actions/workflows/pages/pages-build-deployment)
+
 Experiences and measurements with different keyboards over the years
 
 ## Measurements
@@ -83,6 +87,8 @@ By now you can get so many mechanical keyboards, all kinds of RGB backlights and
 This is the change to silent Outemu switches on the Akko 3098B:
 
 ![compare switch to silent](pics/Akko_V3_Cream_Yellow_Outemu_Silent_Lemon_V3.svg)
+
+A force-travel update to my 3D printer is a future project. And to build my own keyboard with a [Lucky 65 V2](https://kietmodphimdao.com/san-pham/kit-ban-phim-co-lucky65-v2/), some salvaged Akko CS Yellow Cream V3 switches and matching [red/purple keycaps](https://kietmodphimdao.com/san-pham/keycap-gardient-black-red/).
 
 ## Progressive Spring
 
