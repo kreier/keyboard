@@ -76,6 +76,14 @@ For my 1 year study abroad in Moscow I got my first laptop - a 12 inch IBM Think
 
 The MacBook was a great engineering achievement with a full aluminum body, retina display and just 900 gramm weight. A lot had changed since my first laptop, a Thinkpad X30 from 2003. One of the many changes was the new keyboard, named "butterfly keyboard" by Apple. The keycaps were really large, the backlight just under the letters superb (almost no light bleeding to the edges) but the shallow key travel of only 0.5 millimeter was something most people never could get used to.
 
+![MacBook 12](pics/MacBook12.jpg)
+
+### 2018 Setup to measure force-travel curves
+
+By April 13, 2018, I had the setup completed with the [dual range force meter](https://www.vernier.com/product/dual-range-force-sensor/) from [Vernier](https://www.vernier.com/). It has a resolution of 0.01 N or 1 cN, which is probably sufficient for the usual 40 cN acctuation force for Chery red switches.
+
+![Setup 2018](pics/2018-04-13_setup.jpg)
+
 ### 2025 hot swap mechanical
 
 <img src="pics/aula-f75.jpg" width="49%"> <img src="pics/akko-3098B.jpg" width="49%">
